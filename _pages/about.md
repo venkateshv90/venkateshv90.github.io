@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello world!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,11 +11,11 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I am currently pursuing graduate study at Georgia Institute of Technology.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are in AI applications in Mechanical Engineering, Data-driven materials characterization and design and applied mathematics
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 I'm currently working towards ....
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
