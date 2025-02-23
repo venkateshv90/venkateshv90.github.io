@@ -22,7 +22,7 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Open Source Contributions
-I have experience contributing to ... Reinforcement Learning. :singapore:
+I have experience contributing to ... Reinforcement Learning. :SG: :us:
 
 Moreover, I have published a paper at the some conference and in the some journal.
 
