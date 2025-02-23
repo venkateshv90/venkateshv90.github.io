@@ -4,7 +4,7 @@ main:
     url: /cv/
     # url: /files/Resume.pdf
 
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
   
   - title: "Publications"
