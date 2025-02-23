@@ -22,9 +22,9 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+I have experience contributing to ... Reinforcement Learning. :singapore:
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+Moreover, I have published a paper at the some conference and in the some journal.
 
 ## 📜 Reimplementing and Reproducing Papers
 I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
