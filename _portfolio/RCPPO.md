@@ -4,9 +4,10 @@ excerpt: "This project explores both supervised and unsupervised learning techni
 collection: portfolio
 ---
 
-This is project 1
+---
+title: "Analyzing Team and Player Performance in the 2023 Cricket World Cup"
+excerpt: "This [project](https://github.com/venkateshv90/Machine-Learning/tree/main/Cricket-World-Cup-2023) examines the performance of teams and players in the 2023 Cricket World Cup, focusing on key aspects such as batting and bowling statistics, wicket dismissal types, and venue impact. As one of the most prestigious international cricket tournaments, the World Cup brings together top teams from around the globe. The 2023 edition, hosted in India, featured ten teams competing across multiple venues. This analysis provides valuable insights into the factors influencing match outcomes, shedding light on team strategies and individual performances that shaped the tournament."
+collection: portfolio
+---
 
 
-
-
-In this project I implemented the [Reward Constrained Policy Optimization Paper](https://openreview.net/pdf?id=SkfrvsA9FX) by Tessler et al. into stable-baselines3 implementation of PPO. Additionally, I reproduced the original results by tracking my experiments using weights and biases. The code for this project can be found [here](https://github.com/sudo-Boris/stable-baselines3). I also wrote an article elaborating on the theory of RCPO and my results and submitted it to the ICLR Blogposts Track! You can fin the article [here](https://iclr-blogposts.github.io/staging/blog/2023/Adaptive-Reward-Penalty-in-Safe-Reinforcement-Learning/)
