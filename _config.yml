@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Venkatesh Vijayaraghavan"
-  avatar           : "Profile_pic2.png"
+  avatar           : "Untitled.png"
   bio              : "AI for Materials Science"
   location         : "Ranipet, TN, India"
   employer         : "unemployed"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
+  googlescholar    : "https://scholar.google.com/"
   email            : "venkateshv.90@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,18 +102,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"boris-meinardus-ba2302177"
+  linkedin         : #""
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"BorisMeinardus"
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
-  youtube          : #"@borismeinardus"
+  youtube          : #""
   wikipedia        :
 
 
