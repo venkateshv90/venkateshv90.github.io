@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 ## Hello world!
-Welcome to my website. I am an engineering professional and passionate about technology applications in mechanical and materials engineering. My research interests are in AI and Machine Learning applications in Mechanical Engineering, Data-driven Materials Characterization and Applied Mathematics.
+Welcome to my website. I am an engineering professional and passionate about technology applications in mechanical and materials engineering. My research interests are AI and Machine Learning in Mechanical Engineering, Data-driven Materials Characterization and Applied Mathematics.
+
 ## From curiosity to expertise
 Since childhood, I have been fascinated by disassembling and assembling toys, which led me to pursue Mechanical Engineering at Anna University, Chennai. During my undergraduate studies, I developed a strong interest in material properties, prompting me to pursue a Master’s degree at the National University of Singapore. There, I became intrigued by computational applications in mechanical engineering.
+
 My career began as a researcher at Nanyang Technological University, where I applied simulation models to characterize the mechanical properties of carbon nanotubes. I then joined Rolls-Royce Singapore, developing material models to study the brittle mechanics of Ti alloy components. By integrating data analysis into these models, I enhanced their reliability in predicting material properties.
-My journey continued in Australia, where I worked as a Senior Research Engineer at UNSW Sydney, focusing on advanced manufacturing of nanocomposites. I leveraged deep learning techniques to accurately model structure-property relationships, driving new materials development. Over time, my passion for technology and programming grew, leading me to the U.S., where I am now pursuing a Master’s in Computer Science.
+My professional journey took me to Australia, where I worked as a Senior Research Engineer at UNSW Sydney, focusing on advanced manufacturing of nanocomposites. I leveraged deep learning techniques to accurately model structure-property relationships, driving new materials development. Over time, my passion for technology and programming grew, leading me to the U.S., where I am currently pursuing the Master of Science program in Computer Science at Georgai Institute of Technology.
 
 
 
