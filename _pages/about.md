@@ -1,17 +1,5 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-
 ## Hello world!
 Welcome to my website. I am an engineering professional and passionate about technology applications in mechanical and materials engineering. My research interests are in AI and Machine Learning applications in Mechanical Engineering, Data-driven Materials Characterization and Applied Mathematics.
-
 ## From curiosity to expertise
 Since childhood, I have been fascinated by disassembling and assembling toys, which led me to pursue Mechanical Engineering at Anna University, Chennai. During my undergraduate studies, I developed a strong interest in material properties, prompting me to pursue a Master’s degree at the National University of Singapore. There, I became intrigued by computational applications in mechanical engineering.
 My career began as a researcher at Nanyang Technological University, where I applied simulation models to characterize the mechanical properties of carbon nanotubes. I then joined Rolls-Royce Singapore, developing material models to study the brittle mechanics of Ti alloy components. By integrating data analysis into these models, I enhanced their reliability in predicting material properties.
