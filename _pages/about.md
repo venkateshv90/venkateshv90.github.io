@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello world!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,17 +9,15 @@ redirect_from:
 ---
 
 
+## Hello world!
+Welcome to my website. I am an engineering professional and passionate about technology applications in mechanical and materials engineering. My research interests are in AI and Machine Learning applications in Mechanical Engineering, Data-driven Materials Characterization and Applied Mathematics.
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I am currently pursuing graduate study at Georgia Institute of Technology.
+## From curiosity to expertise
+Since childhood, I have been fascinated by disassembling and assembling toys, which led me to pursue Mechanical Engineering at Anna University, Chennai. During my undergraduate studies, I developed a strong interest in material properties, prompting me to pursue a Master’s degree at the National University of Singapore. There, I became intrigued by computational applications in mechanical engineering.
+My career began as a researcher at Nanyang Technological University, where I applied simulation models to characterize the mechanical properties of carbon nanotubes. I then joined Rolls-Royce Singapore, developing material models to study the brittle mechanics of Ti alloy components. By integrating data analysis into these models, I enhanced their reliability in predicting material properties.
+My journey continued in Australia, where I worked as a Senior Research Engineer at UNSW Sydney, focusing on advanced manufacturing of nanocomposites. I leveraged deep learning techniques to accurately model structure-property relationships, driving new materials development. Over time, my passion for technology and programming grew, leading me to the U.S., where I am now pursuing a Master’s in Computer Science.
 
-🔬 My research interests are in AI applications in Mechanical Engineering, Data-driven materials characterization and design and applied mathematics
 
-📚 I'm currently working towards ....
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
-
-# Selected Experience
 
 ## 🤖 Open Source Contributions
 I have experience contributing to ... Reinforcement Learning. :SG: :us:
@@ -31,7 +29,7 @@ I have experience with independent research. I have implemented the Reward Const
 
 To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+Feel free to look at my specific .... .
 
 ## 👨🏻‍🔬 Professional Experience
 Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
