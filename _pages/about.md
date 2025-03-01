@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Hello world!
 Welcome to my website. I am an engineering professional and passionate about technology applications in mechanical and materials engineering. My research interests are in AI and Machine Learning applications in Mechanical Engineering, Data-driven Materials Characterization and Applied Mathematics.
 ## From curiosity to expertise
