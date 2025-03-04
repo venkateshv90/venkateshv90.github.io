@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 ## Education ##
-- ### _Georgia Institute of Technology, Atlanta, GA_ ### 
+- ***Georgia Institute of Technology, Atlanta, GA***
   Expected Graduation: Dec 2025  
   Master of Science in Computer Science  
   Specialization: Machine Learning & AI  
 
-- ### _National University of Singapore, Singapore_ ###  
+- ***National University of Singapore, Singapore***  
   Graduation: Jun 2009  
   Master of Science in Mechanical Engineering  
 
-- ### _Anna University, Chennai, India_ ###  
+- ***Anna University, Chennai, India***  
   Graduation: Jun 2009  
   Bachelor of Engineering in Mechanical Engineering  
   
