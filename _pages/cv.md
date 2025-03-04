@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education ##
-- ***Georgia Institute of Technology, Atlanta, GA***
+- ***Georgia Institute of Technology, Atlanta, GA***  
   Expected Graduation: Dec 2025  
   Master of Science in Computer Science  
   Specialization: Machine Learning & AI  
