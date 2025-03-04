@@ -27,9 +27,8 @@ redirect_from:
   - Specialization*: Machine Learning & AI
   - graduated 
 
-- ***National University of Singapore, Singapore*** 
-  - Master of Science in Mechanical Engineering
-  - points 
+- ***Senior Research Engineer, University of New South Wales Australia*** (Sep 2017 - Dec 2020)
+  - BN-C nanocomposites
 
 - ***Anna University, Chennai, India***  
   - Bachelor of Engineering in Mechanical Engineering
