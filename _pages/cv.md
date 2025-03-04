@@ -27,8 +27,9 @@ redirect_from:
   - Specialization*: Machine Learning & AI
   - graduated 
 
-- ***Senior Research Engineer, University of New South Wales Australia*** (Sep 2017 - Dec 2020)
+- ***Senior Research Engineer, University of New South Wales Australia*** (Sep 2017 - Dec 2020)  
   - BN-C nanocomposites
+
 
 - ***Anna University, Chennai, India***  
   - Bachelor of Engineering in Mechanical Engineering
