@@ -35,5 +35,14 @@ redirect_from:
   - project 2
  
 ## Heading ##
-- **Senior Consultant, Surbana Jurong Consultants Pte. Ltd** (Jun 2022 - Feb 2024)
+- **Senior Consultant, Surbana Jurong Consultants Pte. Ltd. Singapore** (Jun 2022 - Feb 2024)
+  - point 1
   - point 2
+ 
+- **Senior Engineer, University of New South Wales Australia** (Jun 2022 - Feb 2024)
+  - point 1
+  - point 2
+ 
+- **Advanced Technologist, Rolls-Royce@NTU Corporate Lab Singapore** (Sep 2014 - Jan 2017)
+  - p 1
+  - pt. 2
