@@ -29,3 +29,7 @@ redirect_from:
 - **Senior Engineer, University of New South Wales 🇦🇺** (Jun 2022 - Feb 2024)
   - project 1
   - project 2
+ 
+- **Advanced Technologist, Rolls-Royce Singapore Pte. Ltd. 🇸🇬** (Sep 2014 - Jan 2017)
+  - project 1
+  - project 2
