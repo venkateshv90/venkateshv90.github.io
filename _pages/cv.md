@@ -22,7 +22,7 @@ redirect_from:
   *Graduated*: May 2006
 
 ## Work Experience ##
-- **Senior Consultant, Surbana Jurong Consultants Pte. Ltd.🇸🇬** (Jun 2022 - Feb 2024)
+- **Senior Consultant, Surbana Jurong Consultants Pte. Ltd. 🇸🇬** (Jun 2022 - Feb 2024)
   - project 1
   - project 2
  
