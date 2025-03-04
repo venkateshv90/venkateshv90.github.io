@@ -10,7 +10,7 @@ redirect_from:
 ## Education ##
 - ***Georgia Institute of Technology, Atlanta, GA***  
   Master of Science in Computer Science  
-  *Specialization*: Machine Learning & AI
+  *Specialization*: Machine Learning & AI  
   *Expected Graduation*: Dec 2025  
 
 - ***National University of Singapore, Singapore***  
@@ -22,12 +22,12 @@ redirect_from:
   *Graduated*: May 2006
 
 ## Work Experience ##
-- ***Senior Consultant, Surbana Jurong Consultants Singapore Pte. Ltd.*** (Jun 2022 - Feb 2024)    
+- ***Senior Consultant, Surbana Jurong Consultants Singapore Pte. Ltd.*** (Jun 2022 - Feb 2024)
   - Master of Science in Computer Science
   - Specialization*: Machine Learning & AI
   - graduated 
 
-- ***National University of Singapore, Singapore***  
+- ***National University of Singapore, Singapore***
   - Master of Science in Mechanical Engineering
   - points 
 
