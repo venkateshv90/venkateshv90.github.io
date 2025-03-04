@@ -22,7 +22,7 @@ redirect_from:
   *Graduated*: May 2006
 
 ## Work Experience ##
-- ***work 1** (from to)
+- ***work 1*** (from to)
   - point 1
   - point 2
  
