@@ -22,27 +22,8 @@ redirect_from:
   *Graduated*: May 2006
 
 ## Work Experience ##
-- **Senior Consultant, Surbana Jurong Consultants Pte. Ltd. 🇸🇬** (Jun 2022 - Feb 2024)
-  - project 1
-  - project 2
- 
-- **Senior Engineer, University of New South Wales 🇦🇺** (Jun 2022 - Feb 2024)
-  - project 1
-  - project 2
- 
-- **Advanced Technologist, Rolls-Royce Singapore Pte. Ltd. 🇸🇬** (Sep 2014 - Jan 2017)
-  - project 1
-  - project 2
- 
-## Heading ##
-- **Senior Consultant, Surbana Jurong Consultants Pte. Ltd. Singapore** (Jun 2022 - Feb 2024)
+- ***work 1** (from to)
   - point 1
   - point 2
  
-- **Senior Engineer, University of New South Wales Australia** (Jun 2022 - Feb 2024)
-  - point 1
-  - point 2
- 
-- **Advanced Technologist, Rolls-Royce@NTU Corporate Lab Singapore** (Sep 2014 - Jan 2017)
-  - p 1
-  - pt. 2
+
