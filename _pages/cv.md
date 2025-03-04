@@ -18,6 +18,5 @@ redirect_from:
   Master of Science in Mechanical Engineering  
 
 - ***Anna University, Chennai, India***  
-  Graduation: Jun 2009  
   Bachelor of Engineering in Mechanical Engineering  
-  
+  Graduation: May 2006
