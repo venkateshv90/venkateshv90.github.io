@@ -35,5 +35,5 @@ redirect_from:
   - project 2
  
 ## Heading ##
-- point 1
+- **Senior Consultant, Surbana Jurong Consultants Pte. Ltd** (Jun 2022 - Feb 2024)
   - point 2
